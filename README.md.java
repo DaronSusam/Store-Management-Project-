@@ -17,7 +17,7 @@ Use your knowledge of object-oriented programming and class structure and design
 ## UML Diagram
 
 
-![https://studio.code.org/s/csa2-2024/lessons/11/levels/1](image-2.png)
+![https://docs.google.com/drawings/d/16z-hGWYVHUlrp3wC844JxPFIpIRtJaT3_vXw2Rfln0Q/edit?usp=sharing](image-2.png)
 
 ## Description
 
